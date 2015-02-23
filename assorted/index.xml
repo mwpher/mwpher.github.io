@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Assorteds on  </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>https://mwpher.github.io/ghio-dev/assorted/index.xml/</link>
+    
+    <author>Matthew Pherigo</author>
+    
+    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Assorted Tips &amp; Tricks</title>
+      <link>https://mwpher.github.io/ghio-dev/assorted/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <author>Matthew Pherigo</author>
+      <guid>https://mwpher.github.io/ghio-dev/assorted/</guid>
+      <description>
+
+&lt;h3 id=&#34;toc_0&#34;&gt;&lt;a href=&#34;/assorted/general&#34;&gt;General&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;&lt;a href=&#34;/assorted/freebsd&#34;&gt;FreeBSD&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;&lt;a href=&#34;/assorted/openbsd&#34;&gt;OpenBSD&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
